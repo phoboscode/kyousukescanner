@@ -19,6 +19,8 @@ Uygulamanın düzgün çalışabilmesi için kurulumun tamamlanmasına kadar Set
 ## TARAMA HAKKINDA
 
 
+<img width="2534" height="1080" alt="0814" src="https://github.com/user-attachments/assets/21bd9fbe-1b1f-45d2-943e-9e22f4b22f68" />
+
 
 Scanner, sistemde bulunan ilgili FiveM dosyalarını ve uygulamanın desteklediği diğer verileri inceleyebilir.
 
