@@ -28,6 +28,10 @@ Tarama sonuçlarında şüpheli olarak işaretlenen bir dosya veya kayıt, tek b
 
 Özellikle modifiye edilmiş, özel sunuculara ait veya standart dışı dosyalar yanlış pozitif sonuç oluşturabilir.
 
+Sunucunuzla uyumlu, log sunucularıyla entegre çalışabilir altyapı.
+
+<img width="739" height="344" alt="image" src="https://github.com/user-attachments/assets/f3b1a899-a34a-4d3b-858d-77f816eb4da5" />
+
 ## YETKİLER
 
 Bazı sistem ve kullanıcı klasörlerinin incelenebilmesi için uygulamanın Windows tarafından gerekli görülen dosya erişim izinlerine sahip olması gerekebilir.
