@@ -1,5 +1,9 @@
+
 Kyousuke Scanner
 Kurulum ve Kullanım Bilgilendirmesi
+
+<img width="1340" height="887" alt="image" src="https://github.com/user-attachments/assets/121a397f-8634-4010-95ec-f825570c7358" />
+
 ===================================
 
 Kyousuke Scanner, FiveM ortamlarında kullanılan dosya ve bileşenleri incelemek, şüpheli veya olağandışı dosyaları tespit etmek ve tarama sonuçlarını raporlamak amacıyla geliştirilmiş bir güvenlik tarama aracıdır.
@@ -13,6 +17,8 @@ Kurulum sırasında masaüstü ve Başlat menüsü kısayolları oluşturulabili
 Uygulamanın düzgün çalışabilmesi için kurulumun tamamlanmasına kadar Setup penceresini kapatmayınız.
 
 ## TARAMA HAKKINDA
+
+
 
 Scanner, sistemde bulunan ilgili FiveM dosyalarını ve uygulamanın desteklediği diğer verileri inceleyebilir.
 
